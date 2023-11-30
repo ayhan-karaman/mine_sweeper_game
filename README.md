@@ -1,1 +1,1 @@
-# mine_sweeper_game
+# Mine Sweeper Console Game
